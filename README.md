@@ -6,11 +6,11 @@ To get started :
 
 Options: 
   <ul>GET
-    <li>/createWallet</li>
-    <li>/getBalance:address</li>
+    <li>/api/createWallet</li>
+    <li>/api/getBalance:address</li>
   </ul>
   <ul>POST
-    <li>/transaction</li>{privateKey, destination, amount}
+    <li>/api/transaction</li>{privateKey, destination, amount}
   </ul>
 <ul> 
   Source/inspiration/copyunderstandpaste : 
